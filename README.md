@@ -12,7 +12,7 @@ Excel për çdo biznes.
 |-----------|------|
 | **Mac (Apple Silicon — M1/M2/M3/M4)** | `SelfCare Extract-…-arm64.dmg` |
 | **Mac (Intel)** | `SelfCare Extract-…-x64.dmg` (pa `-arm64`) |
-| **Windows** | _Vjen së shpejti_ |
+| **Windows 10 / 11** | `SelfCare Extract Setup ….exe` |
 
 ## Instalimi (Mac)
 
@@ -23,6 +23,16 @@ Excel për çdo biznes.
    - **Right-click** te **SelfCare Extract** → **Open** → **Open anyway**
    - Kjo bëhet vetëm një herë; pas kësaj hapet me dyklik
 5. Aplikacioni hapet me ikonë në Dock dhe një dritare ku menaxhohen klientët
+
+## Instalimi (Windows 10 / 11)
+
+1. Shkarko `SelfCare Extract Setup ….exe`
+2. Klik dyfish për të nisur instalimin
+3. **Hera e parë**: Windows SmartScreen mund të thotë "Windows protected your PC"
+   - Klik **"More info"** → **"Run anyway"**
+   - Kjo bëhet vetëm një herë
+4. Ndiq instalimin (Next, Install)
+5. App-i hapet automatikisht; gjendet edhe te Start menu si **SelfCare Extract**
 
 ## Si funksionon
 
