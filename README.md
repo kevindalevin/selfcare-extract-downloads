@@ -26,6 +26,10 @@ Hapat më poshtë e bypass-ojnë në mënyrë të sigurt. **Vetëm një herë** 
 
 ## Instalimi (Mac)
 
+> **Mac me Intel:** ky build mbështet vetëm Apple Silicon (M1 e lart). Makinat
+> Mac me procesor Intel nuk mbështeten — përdor versionin Windows ose një Mac
+> me Apple Silicon.
+
 ### Hapi 1 — Shkarko + zvarrit te Applications
 
 1. Shkarko `.dmg`-në e duhur (`arm64` për M-series, `x64` për Intel).
